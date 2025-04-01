@@ -34,21 +34,21 @@ The analysis was conducted using Python with libraries such as Pandas, NumPy, Ma
 
 ### Top 10 Countries with the Most Nobel Prizes
 
-![Image of Top 10 Countries Bar Chart](png/Q1.png)
+![Image of Top 10 Countries Bar Chart](plots/Q1.png)
 
 *Insights:* Dominance of USA followed by UK and Germany. This is likely due to many aspects but one big reason is economy.
 
 ### Nobel Prizes Won by United States of America Over Time
 
-![Image of USA Nobel Prizes Over Time Chart](png/Q4.png)
+![Image of USA Nobel Prizes Over Time Chart](plots/Q4.png)
 
-![Image of USA Nobel Prizes 5 Year Moving Average Chart](png/Q4M.png)
+![Image of USA Nobel Prizes 5 Year Moving Average Chart](plots/Q4M.png)
 
 *Insights:* The moving average smooths yearly wins, showing sustained dominance.
 
 ### Nobel Laureates by Birth Country
 
-![Image of World Map Scatter Plot](png/Q4M.png)
+![Image of World Map Scatter Plot](plots/Q4M.png)
 
 *Insights:* This map effectively visualizes the geographical distribution of Nobel laureates across the world, providing a global perspective on where Nobel-level contributions originate.
 
