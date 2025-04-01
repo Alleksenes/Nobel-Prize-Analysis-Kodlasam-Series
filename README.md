@@ -48,9 +48,9 @@ The analysis was conducted using Python with libraries such as Pandas, NumPy, Ma
 
 ### Nobel Laureates by Birth Country
 
-![Image of World Map Scatter Plot](plots/Q4M.png)
+![Image of World Map Scatter Plot](plots/Q9.png)
 
-*Insights:* This map effectively visualizes the geographical distribution of Nobel laureates across the world, providing a global perspective on where Nobel-level contributions originate.
+*Insights:* This map visualizes the geographical distribution of Nobel laureates across the world, *interactively in the code*, providing a global perspective on where Nobel-level contributions originate.
 
 ## Limitations
 
