@@ -6,7 +6,7 @@ This work is the completion project of the Python module of my training at Kodla
 
 ## Dataset
 
-Can be found in: ![Kaggle](https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates#archive.csv), The dataset contains information on Nobel Prize laureates from 1901 to 2016. 
+Can be found in: [Kaggle](https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates#archive.csv), The dataset contains information on Nobel Prize laureates from 1901 to 2016. 
 
 ## Methodology
 
