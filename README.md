@@ -58,7 +58,7 @@ The analysis was conducted using Python with libraries such as Pandas, NumPy, Ma
 
 ## Usage
 
-1.  Clone the repository: `git clone [repository URL]`
+1.  Clone the repository: `git clone [https://github.com/Alleksenes/Nobel-Prize-Analysis-Kodlasam-Series.git]`
 2.  Install the required libraries: `pip install pandas numpy matplotlib seaborn plotly unidecode rich`
 3.  Run the Python notebook: `jupyter notebook nobel_prize_analysis.ipynb`
 
